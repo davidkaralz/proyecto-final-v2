@@ -1,0 +1,20 @@
+﻿Compilación iniciada a las 23/11/2018 12:47:13.
+     1>Proyecto "c:\Users\Judarpe\documents\visual studio 2013\Projects\Project11\Project11\Project11.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\judarpe\documents\visual studio 2013\projects\project11\project11\source.cpp(13): warning C4305: 'inicializando' : truncamiento de 'double' a 'float'
+     1>c:\users\judarpe\documents\visual studio 2013\projects\project11\project11\source.cpp(39): warning C4101: 't1' : variable local sin referencia
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\judarpe\documents\visual studio 2013\Projects\Project11\Debug\Project11.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\judarpe\documents\visual studio 2013\Projects\Project11\Debug\Project11.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\judarpe\documents\visual studio 2013\Projects\Project11\Debug\Project11.lib" /MACHINE:X86 Debug\h_max.obj
+         Debug\posicion.obj
+         Debug\Proyectil.obj
+         Debug\R_max.obj
+         Debug\Source.obj
+         Debug\t_vuelo.obj
+         Project11.vcxproj -> c:\users\judarpe\documents\visual studio 2013\Projects\Project11\Debug\Project11.exe
+     1>Compilación del proyecto terminada "c:\Users\Judarpe\documents\visual studio 2013\Projects\Project11\Project11\Project11.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.76
